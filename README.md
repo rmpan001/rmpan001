@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ralph Anthony Mpanu-Mpanu
 
-<!--
-**rmpan001/rmpan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Ralph, a passionate software developer with experience in full-stack development, backend engineering, and data analytics.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** Python, Java, JavaScript, HTML/CSS, MySQL
+- **Frameworks:** Flask, React, SQLAlchemy, SpringBoot
+- **Developer Tools:** Docker, Git, GitHub Actions, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [Phisecure](https://github.com/rmpan001/F24-Orange): A full-stack web app for phishing simulations.
+- [Personal Name Extractor](https://github.com/Izzy-Elizzy/NameExtractor): A Java-based ML pipeline for text classification and name extraction.
+
+## 🌱 Currently Learning
+- Advanced data analytics and machine learning as part of my M.S. program.
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/ralph-anthony-mpanu-mpanu/)
+- [GitHub](https://github.com/rmpan001)
+- Email: mpanur@gmail.com
