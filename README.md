@@ -4,7 +4,7 @@
 
 ## 🚀 Skills
 - **Languages:** Python, Java, JavaScript, HTML/CSS, MySQL
-- **Frameworks:** Flask, React, SQLAlchemy, SpringBoot
+- **Frameworks:** Flask, React, SpringBoot
 - **Developer Tools:** Docker, Git, GitHub Actions, VS Code
 
 ## 📌 Featured Projects
