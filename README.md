@@ -10,7 +10,7 @@
 - **Languages:** Python, Java, JavaScript, SQL  
 - **Frameworks:** Flask, FastAPI, Django, React.js, Next.js, Node.js, Spring Boot  
 - **AI / ML:** LLM Evaluation, Prompt Engineering, Model Performance Analysis, Code Generation Assessment  
-- **DevOps & Tools:** Docker, Git, GitHub Actions (CI/CD), Kubernetes, VS Code  
+- **DevOps & Tools:** Docker, Git, GitHub Actions (CI/CD), Kubernetes
 
 ---
 
